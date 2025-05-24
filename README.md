@@ -8,10 +8,6 @@ Requirements:
 - OpenCV (OpenCV-python)
 - NumPy
 
-Usage:
-Place your image file (.jpg, .png, or .tif) in the project directory or provide the full file path.
-Run the script from the command line or inside a Jupyter/Colab notebook by providing the image path as an argument.
-
 
 3) Description of Techniques Used
 - Color Adjustment: Modifies image brightness and contrast using OpenCV's convertScaleAbs method to enhance image appearance.
